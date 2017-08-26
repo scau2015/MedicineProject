@@ -1,0 +1,7 @@
+#Wed Aug 23 23:17:20 CST 2017
+base.0=E\:\\project\\MedicineProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_47b4d213256b80e2787190c51e4d24e08b15308d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\project\\MedicineProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec75e8b41f1d440db2271ad86927369de1c8c913\\classes.dex
+base.1=E\:\\project\\MedicineProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec75e8b41f1d440db2271ad86927369de1c8c913
+file.0=E\:\\project\\MedicineProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_47b4d213256b80e2787190c51e4d24e08b15308d\\classes.dex

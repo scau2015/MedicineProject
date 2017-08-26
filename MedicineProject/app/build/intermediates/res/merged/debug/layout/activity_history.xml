@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:minHeight="?attr/actionBarSize">
+
+        <Button
+            android:id="@+id/quxiao_history"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/search_toolbar_button_background"
+            android:layout_weight="1"
+            android:text="取消"
+            android:visibility="invisible"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textView_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="历史记录"
+            android:textColor="#FFFFFF"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/queding_history"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="20dp"
+            android:layout_gravity="right"
+            android:background="@drawable/search_toolbar_button_background"
+            android:text="确定"
+            android:visibility="invisible"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp" />
+    </android.support.v7.widget.Toolbar>
+
+
+
+    <ListView
+        android:id="@+id/listView_history"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_history"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/bt_cancel"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+
+            android:text="取消选择" />
+
+
+
+        <Button
+            android:id="@+id/bt_delete_history"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+
+            android:text="删除" />
+    </LinearLayout>
+
+</LinearLayout>

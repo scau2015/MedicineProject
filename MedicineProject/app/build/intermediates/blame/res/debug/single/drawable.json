@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\searchreplacepicture.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\searchreplacepicture.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quit.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\quit.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_in_button_shape.xml",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\sign_in_button_shape.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\d.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\picture1.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\picture1.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_textview_background.xml",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\search_textview_background.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\d.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_in_button_shape.xml",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\sign_in_button_shape.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_0.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\search_0.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wechat.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\wechat.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_in.jpg",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\sign_in.jpg"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\titile_background.xml",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\titile_background.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\u326.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\u326.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wechat.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\wechat.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_arrrow.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\next_arrrow.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_pressed.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\location_pressed.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.xml",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\searchreplacepicture.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\searchreplacepicture.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_0.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\info_0.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\u165.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\u165.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_0.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\history_0.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_toolbar_button_background.xml",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\search_toolbar_button_background.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\h.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\h.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\data_analysis_1.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\data_analysis_1.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_textview_background.xml",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\search_textview_background.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\data_analysis_0.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\data_analysis_0.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel_button_shape.xml",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\cancel_button_shape.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_pressed.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\location_pressed.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_1.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\history_1.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_0.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\search_0.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.xml",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\identify_1.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\identify_1.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\u165.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\u165.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four_square.xml",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\four_square.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_1.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\history_1.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\take_a_photo.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\take_a_photo.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_bg.xml",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\pop_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_preview.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\photo_preview.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\u326.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\u326.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_1.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\search_1.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_0.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\info_0.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel_button_shape.xml",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\cancel_button_shape.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\titile_background.xml",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\titile_background.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_back.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\arrow_back.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_1.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\search_1.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_unpressed.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\location_unpressed.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\take_a_photo.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\take_a_photo.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enter_button_shape.xml",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\enter_button_shape.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_1.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\info_1.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\data_analysis_1.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\data_analysis_1.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\identify_0.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\identify_0.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\identify_1.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\identify_1.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_preview.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\photo_preview.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_unpressed.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\location_unpressed.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_bg.xml",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\pop_bg.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\spinner.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_toolbar_button_background.xml",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\search_toolbar_button_background.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enter_button_shape.xml",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\enter_button_shape.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_back.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\arrow_back.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\identify_0.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\identify_0.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_0.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\history_0.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_in.jpg",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\sign_in.jpg"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_1.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\info_1.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\qq.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_arrrow.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\next_arrrow.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\picture1.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\picture1.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\qq.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\h.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\h.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four_square.xml",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\four_square.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quit.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\quit.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\data_analysis_0.png",
+        "source": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\src\\main\\res\\drawable\\data_analysis_0.png"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner.png",
+        "source": "E:\\project\\MedicineProject\\app\\src\\main\\res\\drawable\\spinner.png"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    }
+]

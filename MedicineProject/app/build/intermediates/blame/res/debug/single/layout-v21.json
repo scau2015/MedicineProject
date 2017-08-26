@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\project\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\888\\.android\\build-cache\\3f963a0085c2399759f1cde7fd48c8fc54112e51\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Android\\MedicineProject1\\MedicineProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\Android\\JDK\\adt-bundle-windows-x86-20130917\\sdk\\.android\\build-cache\\2d2895366b3564cc9fb216708a39839615877f24\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

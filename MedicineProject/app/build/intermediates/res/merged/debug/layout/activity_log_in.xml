@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.medicineproject.LogInActivity">
+
+
+    <TextView
+        android:id="@+id/textView_log_in"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="50dp"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/log_in"
+        android:textColor="#199ED8"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button_log_in_activity_log_in"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/linearLayout1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/linearLayout1"
+        android:layout_marginBottom="80dp"
+        android:background="#199ED8"
+        android:padding="5dp"
+        android:text="@string/log_in"
+        android:textColor="#fff"
+        android:textSize="30dp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/button_log_in_activity_log_in"
+        android:layout_below="@id/textView_log_in"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:layout_width="0dp"
+
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="left|center_vertical"
+                android:padding="5dp"
+                android:text="@string/ID"
+                android:textColor="#000"
+                android:textSize="25dp" />
+
+            <EditText
+                android:id="@+id/editText_id_activity_log_in"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="@drawable/four_square"
+                android:hint="@string/ID_hint"
+                android:inputType="number"
+                android:maxLength="11"
+                android:maxLines="1"
+                android:padding="10dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="left|center_vertical"
+                android:padding="5dp"
+                android:text="@string/password"
+                android:textColor="#000"
+                android:textSize="25dp" />
+
+            <EditText
+                android:id="@+id/editText_password_activity_log_in"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="@drawable/four_square"
+                android:hint="@string/password_hint"
+                android:inputType="textPassword"
+                android:maxLength="20"
+                android:maxLines="1"
+                android:padding="10dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/textView_forget_password_activity_log_in"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="right|center_vertical"
+                android:text="@string/forget_password"
+                android:textColor="@android:color/holo_red_dark"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</RelativeLayout>

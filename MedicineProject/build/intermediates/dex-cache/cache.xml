@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\project\MedicineProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="512f6a1cc0e21748e4e611c1b4a0bfd2c97bf522">
+        <dex dex="E:\project\MedicineProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ec75e8b41f1d440db2271ad86927369de1c8c913\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\MedicineProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\project\MedicineProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_47b4d213256b80e2787190c51e4d24e08b15308d\classes.dex" />
+    </item>
+
+</items>

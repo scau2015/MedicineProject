@@ -1,0 +1,138 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:minHeight="?attr/actionBarSize">
+
+        <Button
+            android:id="@+id/quxiao_search"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/search_toolbar_button_background"
+            android:layout_weight="1"
+            android:text="取消"
+            android:visibility="invisible"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textView_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="搜索"
+            android:textColor="#FFFFFF"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/queding_search"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="20dp"
+            android:layout_gravity="right"
+            android:background="@drawable/search_toolbar_button_background"
+            android:text="确定"
+            android:visibility="invisible"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp" />
+    </android.support.v7.widget.Toolbar>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:id="@+id/dateDisplay1"
+            android:layout_width="135dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+
+            android:background="@drawable/search_textview_background"
+            android:gravity="center"
+
+            android:text="2017年1月1号" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:text="至" />
+
+        <TextView
+            android:id="@+id/dateDisplay2"
+            android:layout_width="135dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/search_textview_background"
+            android:gravity="center"
+            android:text="我是默认的时间显示" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/search_textview_background"
+            android:gravity="center_vertical"
+            android:hint="请输入关键字"
+            android:paddingLeft="10dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/search" />
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/listView_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/bt_cancel_search"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+
+            android:text="取消选择" />
+
+
+
+        <Button
+            android:id="@+id/bt_delete_search"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+
+            android:text="删除" />
+    </LinearLayout>
+
+</LinearLayout>

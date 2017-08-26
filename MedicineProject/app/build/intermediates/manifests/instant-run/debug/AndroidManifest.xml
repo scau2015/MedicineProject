@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.medicineproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="26" />
+
+    <!-- 使用照相机权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!-- 扩展卡读取权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.medicineproject.WelcomeActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.medicineproject.MainActivity" />
+        <activity android:name="com.example.medicineproject.SearchActivity" />
+        <activity android:name="com.example.medicineproject.IdentifyActivity" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.example.medicineproject.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <activity android:name="com.example.medicineproject.DataAnalysisActivity" />
+        <activity android:name="com.example.medicineproject.HistoryActivity" />
+        <activity android:name="com.example.medicineproject.PhotoPreviewActivity" />
+        <activity android:name="com.example.medicineproject.personalinformation.ModifyAddressActivity" />
+        <activity android:name="com.example.medicineproject.personalinformation.ModifyApartmentActivity" />
+        <activity android:name="com.example.medicineproject.personalinformation.ModifyEmailActivity" />
+        <activity android:name="com.example.medicineproject.personalinformation.ModifyPasswordActivity" />
+        <activity android:name="com.example.medicineproject.personalinformation.ModifyQQActivity" />
+        <activity android:name="com.example.medicineproject.personalinformation.ModifyTelephoneNumberActivity" />
+        <activity android:name="com.example.medicineproject.personalinformation.ModifyUnitActivity" />
+        <activity android:name="com.example.medicineproject.SignInActivity" />
+        <activity android:name="com.example.medicineproject.CompletePersonalInformationActivity" />
+        <activity android:name="com.example.medicineproject.LogInActivity" />
+        <activity android:name="com.example.medicineproject.FindPasswordActivity" />
+        <activity android:name="com.example.medicineproject.InfoActivity" />
+        <activity android:name="com.example.medicineproject.ResultActivity" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.example.medicineproject.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
